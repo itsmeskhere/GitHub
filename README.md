@@ -3,6 +3,7 @@
 `git --version`  
 `git config --global user.name "<USER_NAME>"`  
 `git config --global user.email "<EMAIL_ADDRESS>"`  
+`git config --global credential.helper store`
 `git config --list`  
 ### GitHub to Local  
 Create a GitHub repository.  
